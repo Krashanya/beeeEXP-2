@@ -64,11 +64,13 @@ Circuit Diagram:
 Open circuit characteristics:
 
 <img width="1297" height="535" alt="image" src="https://github.com/user-attachments/assets/fe49f634-ff11-43ab-a812-b4aade2c4b7a" />
+<img width="1225" height="1600" alt="image" src="https://github.com/user-attachments/assets/b27b8696-7b30-44e0-9bd0-70a2a4076311" />
 
   
 Load Characteristics:
 
 <img width="1483" height="912" alt="image" src="https://github.com/user-attachments/assets/cf741ce8-e70b-49c3-854f-7a8f63792c60" />
+<img width="1240" height="1600" alt="image" src="https://github.com/user-attachments/assets/a67128f5-fa94-4d3c-9b56-b31746d4296d" />
 
 Open Circuit and Load Circuit Characteristics:
 
